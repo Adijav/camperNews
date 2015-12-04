@@ -1,0 +1,39 @@
+.userAvatar{
+	width: 250px;
+	height: 250px;
+	border-radius: 50%;
+	margin-left: 70px;
+	margin-top: 70px;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-color: red;
+}
+
+.userAvatar {
+	background-color: red;
+}
+
+h1 {
+	color: #c70039;
+}
+.camperNews {
+	margin-top: 30px;
+	font-family: 'Chewy', cursive;
+}
+
+.articles {
+	font-size: 20px;
+	left: 122px;
+	top: -30px;
+	color: #3498DB;  
+}
+
+.timeStamp {
+	font-size: 20px;
+	color: #3498DB; 
+	top: 215px;
+}
+
+body {
+	background-color: #D5DBDB; 
+}
